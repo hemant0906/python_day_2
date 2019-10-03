@@ -1,0 +1,639 @@
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:59:51) [MSC v.1914 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Accept no123
+3.0 12.0
+2.0 1.0
+1.0 0.0
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Accept no: 12.3
+2.3000000000000007 1.0
+1.0 0.0
+>>> 
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Accept no: 56
+6.0 5.0
+5.0 0.0
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+enter the no123
+3.0 + 12.0 = 15.0
+2.0 + 1.0 = 3.0
+1.0 + 0.0 = 1.0
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter number:1234
+no is a palindrome!
+>>> 1353
+1353
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter number:1353
+no is a palindrome!
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter number:45631
+no is a palindrome!
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter number:4343
+no is not a palindrome!
+>>> 343
+343
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter number:343
+no is palindrome!
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter number:12
+reversed no is :  21
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 12
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 56, in <module>
+    while n > 0:
+TypeError: '>' not supported between instances of 'str' and 'int'
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 12
+0 is not an armstrong number
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 370
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 58, in <module>
+    ano+= r ** t
+NameError: name 'ano' is not defined
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 12
+0 is not an armstrong number
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 12
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 56, in <module>
+    while n > 0:
+TypeError: '>' not supported between instances of 'str' and 'int'
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 153
+153 is not an armstrong number
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter a number: 3
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter a number: 3
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter a number: 3
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter a number: 3
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter a number: 3
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter a number: 3
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 126, in <module>
+    t=n
+NameError: name 'n' is not defined
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 126, in <module>
+    t=ano
+NameError: name 'ano' is not defined
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 134, in <module>
+    if sum==no:
+NameError: name 'no' is not defined
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+125 is armstrong
+153 is armstrong
+216 is armstrong
+370 is armstrong
+371 is armstrong
+407 is armstrong
+729 is armstrong
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+enter first no12
+enter second no 15
+
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+enter first no12
+enter second no 15
+gcd 3.0
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+enter first no12.5
+enter second no 13.5
+gcd 0.5
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter the first number of the series 0
+Enter the second number of the series 1
+Enter the number of terms needed 10
+0 1 1 2 3 5 8 13 21 34 
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 1
+1 + sum:  1
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 1
+1+sum:  1
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 6
+1+2+3+4+5+6+sum:  21
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 6
+1+2+3+4+5+6+
+sum:  2.4499999999999997
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 4
+1.0+0.5+0.3333333333333333+0.25+
+sum:  2.083333333333333
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 5
+1/ 1+1/ 2+1/ 3+1/ 4+1/ 5+
+sum:  2.283333333333333
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 4
+1/ 2 + 1/ 3 + 1/ 4 + 1/ 5 + 
+sum:  1.2833333333333332
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 4
+1/ 2 + 1/ 3 + 1/ 4 + 1/ 5 + 1/ 6 + 
+sum:  1.45
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 4
+1/ 1 + 1/ 2 + 1/ 3 + 1/ 4 + 1/ 5 + 
+sum:  2.283333333333333
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 4
+3 / 2 + 4 / 3 + 5 / 4 + 6 / 5 + 7 / 6 + 
+sum:  24.566666666666663
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 4
+2 / 2 + 3 / 3 + 4 / 4 + 5 / 5 + 6 / 6 + 
+sum:  22.283333333333335
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 4
+2 / 3 + 3 / 4 + 4 / 5 + 5 / 6 + 6 / 7 + 
+sum:  27.283333333333335
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 4
+2 / 3 + 3 / 4 + 4 / 5 + 5 / 6 + 
+sum:  20.083333333333336
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 4
+2 / 3 + 4 / 5 + 6 / 7 + 8 / 9 + 
+sum:  25.676190476190477
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 4
+1 / 3 + -2 / 0 + 4 / 6 + -8 / -6 + 
+sum:  12.0
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 4
+1 / 3  -2 / 0  4 / 6  -8 / -6  
+sum:  12.0
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 4
+-1 / 3 + -2 / 4 + -2 / 4 + -2 / 4 + 
+sum:  4.0
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 4
+1 / 2 + 3 / 4 + 5 / 6 + 7 / 8 + 
+sum:  8.0
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+enter the no12
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 202, in <module>
+    sum+=digit
+TypeError: unsupported operand type(s) for +=: 'builtin_function_or_method' and 'int'
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+enter the no12
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 203, in <module>
+    sum+=digit
+TypeError: unsupported operand type(s) for +=: 'builtin_function_or_method' and 'float'
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+enter the no10
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 203, in <module>
+    sum+=digit
+TypeError: unsupported operand type(s) for +=: 'builtin_function_or_method' and 'float'
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+enter the no10
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 203, in <module>
+    sum+=digit
+TypeError: unsupported operand type(s) for +=: 'builtin_function_or_method' and 'int'
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 4
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 211, in <module>
+    print(i,ends=" ")
+TypeError: 'ends' is an invalid keyword argument for print()
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 4
+0 1 1 2 
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 233, in <module>
+    for i in range (1,n+1):
+NameError: name 'n' is not defined
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+* ** *** **** ***** 
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+*
+**
+***
+****
+*****
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+******
+*****
+****
+***
+**
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+*****
+****
+***
+**
+*
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+* ** *** **** ***** 
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+  * 1
+  * 2
+  * 3
+  * 4
+  * 5
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+     *
+    **
+   ***
+  ****
+ *****
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+      *
+     **
+    ***
+   ****
+  *****
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter the no 4
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 259, in <module>
+    print("*"*i+2)
+TypeError: can only concatenate str (not "int") to str
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter the no 4
+*
+**
+***
+****
+*****
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter the no 4
+**
+****
+******
+********
+**********
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter the no 3
+**
+****
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter the no 3
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter the no 3
+
+**
+****
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter the no 4
+
+**
+****
+******
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter the no 4
+**
+****
+******
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter the no 4
+*
+***
+*****
+*******
+>>> a[]
+SyntaxError: invalid syntax
+>>> a=[]
+>>> type(a)
+<class 'list'>
+>>> s=()
+>>> type(s)
+<class 'tuple'>
+>>> s={1}
+>>> type(s)
+<class 'set'>
+>>> l=[1,'hemant',2.3]
+>>> type(l)
+<class 'list'>
+>>> print(l)
+[1, 'hemant', 2.3]
+>>> l
+[1, 'hemant', 2.3]
+>>> print(l,"\n")
+[1, 'hemant', 2.3] 
+
+>>> l.insert(5,400)
+>>> l
+[1, 'hemant', 2.3, 400]
+>>> l['a','d','m','c']
+Traceback (most recent call last):
+  File "<pyshell#17>", line 1, in <module>
+    l['a','d','m','c']
+TypeError: list indices must be integers or slices, not tuple
+>>> l=['a','d','m','c']
+>>> max(l)
+'m'
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 2
+Enter no: 2
+Enter no: 6
+Enter no: 4
+Enter no: -1
+sum is  14
+>>> l
+[]
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 4
+Enter no: 5
+Enter no: 6
+Enter no: -1
+sum is  15
+>>> l
+[-1]
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 4
+Enter no: 4
+Enter no: 4
+Enter no: -1
+sum is  12
+>>> l
+[]
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 4
+Enter no: 4
+Enter no: 4
+Enter no: -1
+sum is  12
+>>> print(l)
+[]
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+[10, 20, 30, 40, 50] @ index <built-in method index of list object at 0x000001E4AD7DFCC8>
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 287, in <module>
+    print(l[i],"@ index",l.index[i])
+NameError: name 'i' is not defined
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 287, in <module>
+    print(l[i],"@ index",l.index)
+NameError: name 'i' is not defined
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+10 @ index <built-in method index of list object at 0x0000024A6ED81D08>
+20 @ index <built-in method index of list object at 0x0000024A6ED81D08>
+30 @ index <built-in method index of list object at 0x0000024A6ED81D08>
+40 @ index <built-in method index of list object at 0x0000024A6ED81D08>
+50 @ index <built-in method index of list object at 0x0000024A6ED81D08>
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 11
+Enter no: 34
+Enter no: 65
+Enter no: 24
+Enter no: 54
+Enter no: 34
+Enter no: 24
+Enter no: -1
+sum is  188
+list is [11, 34, 65, 24, 54]
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 14
+Enter no: 36
+Enter no: 84
+Enter no: 24
+Enter no: -1
+sum is  158
+list is [14, 36, 84, 24]
+Enter no: 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 32
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 321, in <module>
+    l.sort(n)
+TypeError: sort() takes no positional arguments
+>>> 54
+54
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 21
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 322, in <module>
+    l[-2]
+IndexError: list index out of range
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 21
+Enter no: 35
+Enter no: 64
+Enter no: -1
+list is [21, 35, 64]
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 14
+Enter no: 35
+Enter no: 64
+Enter no: 39
+Enter no: -1
+list is [14, 35, 39, 64] and second highest is 39
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 1
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 335, in <module>
+    for i in range(len(a)):
+NameError: name 'a' is not defined
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 1
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 338, in <module>
+    sum=sum+l[i]
+IndexError: list index out of range
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 2
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 337, in <module>
+    for i in range(len(n)):
+TypeError: object of type 'int' has no len()
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+enter numbers: 1
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 352, in <module>
+    avg = sum/n
+ZeroDivisionError: division by zero
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 1
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 370, in <module>
+    print("average",a)
+NameError: name 'a' is not defined
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 1
+average 0
+list is [1, 1.0, <built-in function sum>]
+Enter no: 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 1
+average 0
+list is [1, 1.0, 2.0]
+Enter no: 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 1
+list is [1, 1.0, 2.0]
+Enter no: 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+List is [10, 20, 10, 30, 10, 40, 10, 50]
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 388, in <module>
+    if(list[i]==n):
+NameError: name 'n' is not defined
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+List is [10, 20, 10, 30, 10, 40, 10, 50]
+[20, 30, 40, 50]
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 403, in <module>
+    if(l[i]==n):
+NameError: name 'i' is not defined
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+[20, 10, 30, 10, 40, 10, 50]
+>>> 10
+10
+>>> 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 10
+list is [20.0]
+Enter no: 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Enter no: 10
+list is []
+Enter no: 
+=== RESTART: C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py ===
+Traceback (most recent call last):
+  File "C:/Users/admin/AppData/Local/Programs/Python/Python37/sc2.py", line 417, in <module>
+    for i in range (l):
+TypeError: 'list' object cannot be interpreted as an integer
+>>> 

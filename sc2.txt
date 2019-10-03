@@ -1,0 +1,425 @@
+
+# seperating digits
+'''
+n=float(input("Accept no: "))
+while n>0 :
+    digit=n%10
+    n=n//10
+    print(digit,n)
+'''
+
+
+# cal sum of digit in number
+'''
+n=float(input("enter the no"))
+while n>0 :
+    digit=n%10
+    n=n//10
+    sum+=digit
+    print("sum is :",sum)
+'''
+
+# reversed a number
+'''
+n=int(input("Enter number:"))
+t=n
+r=0
+while(n>0):
+    digit=n%10
+    r=r*10+digit
+    n=n//10
+print("reversed no is : ",r)
+'''
+
+
+# check the no is palindrome or not , vimp
+'''
+n=int(input("Enter number:"))
+t=n
+r=0
+while(n>0):
+    digit=n%10
+    r=r*10+digit
+    n=n//10
+if(t==r):
+    print("no is palindrome!")
+else:
+    print("no is not a palindrome!")
+'''
+
+#check armstrong or not
+'''
+
+n = int(input("Enter no: "))
+t= n
+ano=0
+while t > 0:
+        digit = t% 10
+        t = int(t/10)
+        ano =ano+int (digit*digit*digit)
+        
+if (ano==n):
+    print(n, 'is an armstrong no')
+else:
+    print(n, 'is not an armstrong number')
+'''
+
+
+# prime or not , flag use , flag is just variable
+'''
+n=int(input("enter the no")
+      flag=True
+      for i in range(2,n)
+      if n%i==0:
+              flag=False
+      break
+ if flag==True:
+      print("is prime")
+else :
+
+
+ '''     
+# prime or not nested loop
+'''
+
+n= int(input("Enter a number: "))
+if n > 1:
+    for i in range(2,n):
+            if (n % i) == 0:
+                print(n,"is not a prime no")
+            
+else: 
+    print(n,"is prime")
+
+'''
+
+
+
+#prime between 1 to 50
+'''
+for no in range (1,51):  # gives no to check
+    flag=True    # reset for every no
+    for i in range(2,no):   # check for prime
+        if no%i==0
+        flag=False
+        break
+    if flag==True
+    print(no,"is prime")
+'''
+     
+
+
+
+# armstrong no between 100 to 999
+'''
+for ano in range (100,1000):
+    t=ano
+    sum=0
+    while t > 0:
+        digit = t% 10
+        t = int(t/10)
+        sum+=digit**3
+        if sum==ano:
+            print(ano,"is armstrong")
+'''
+
+
+
+
+
+# gcd of 2 numbers
+'''
+a = float(input("enter first no"))
+b = float(input("enter second no "))
+
+if a<b :
+    a,b=b,a
+while a%b!=0:
+        a,b=b,a%b
+        
+print("gcd",b)
+            
+'''
+'''
+a=int(input("Enter the first number  "))
+b=int(input("Enter the second number "))
+n=int(input("Enter the  "))
+print(a,b,end=" ")
+while(n-2):
+    c=a+b
+    a=b
+    b=c
+    print(c,end=" ")
+    n=n-1
+
+'''
+
+
+# fibonacci series 
+'''
+sum=0
+n=int(input("Enter no: "))
+for i in range(1,n+1):
+                  sum+=i
+                  print(i,end="+")
+print("\nsum: ",sum)
+'''
+
+
+
+
+# 1/2 + 3/4   series  intv-w 
+'''
+sum=0
+i=1
+
+n=int(input("Enter no: "))
+for j in range(1,n+1):
+                  sum+=i/i+1
+                  print(i,"/",i+1,end=" + ")
+                  i+=2
+print("\nsum: ",sum)
+'''
+
+
+
+#1/2-3/4+5/6-7/8  series
+'''
+sum=0
+i=1
+term=1
+n=int(input("Enter no: "))
+for j in range(1,n+1):
+                  sum+=i/i+1
+                  print(i,"/",i+1,end=" + ")
+                  i+=2
+print("\nsum: ",sum)
+'''
+
+# sum of given no by user   refer sum of 10 code pday1
+'''
+
+'''
+
+# fibonacci series   if else
+'''
+f0=0
+f1=1
+n=int(input("Enter no: "))
+for i in range(0,n):
+    if i<=1:
+        print(i,end=" ")
+    else :
+        fn=f0+f1
+        print(fn,end=" ")
+        f0,f1=f1,fn
+
+'''
+# fibonacci   while loop
+'''
+a=0
+b=
+n=int(input("Enter the  "))
+print(a,b,end=" ")
+while(n-2):
+    c=a+b
+    a=b
+    b=c
+    print(c,end=" ")
+    n=n-1
+'''
+# pattern printing 1
+'''
+for i in range (1,6):
+    print("*"*i)
+'''
+# pattern 2
+'''
+for i in range (5,0,-1):
+    print("*"*i)
+'''
+
+
+# mario pattern 3
+''' 
+for i in range (1,6,):
+    print(" "*(6-i),"*"*i)
+'''
+
+
+
+
+#pattern 4
+'''
+ for i in range (1,6,):
+    print(" "*(6-i)," *"*i)
+'''  
+
+
+# pattern 5
+'''
+n=int(input("Enter the no "))
+d=1
+for i in range (n):
+    print("*"*d)
+    d+=2
+'''
+
+
+# data structures
+# 1) list - most imp majorly used
+'''
+l=[]
+sum=0
+
+while True:
+    n=int(input("Enter no: "))
+    if n==-1:
+        
+        break
+        l.append(n)
+    sum+=n
+print("sum is " ,sum)
+print("list is",l)
+'''
+
+#
+'''
+l=[10,20,30,40,50]
+for i in range (len(l)):
+    print(l[i],"@ index",i)
+
+'''
+# list - dont allow duplicates in a list
+'''
+l=[]
+sum=0
+
+while True:
+    n=int(input("Enter no: "))
+    if n==-1:
+        
+        break
+    elif  l.count(n)==0:
+        l.append(n)
+        sum+=n
+print("sum is " ,sum)
+print("list is",l)
+'''
+
+
+# second highest
+'''
+
+l=[]
+
+
+while True:
+    n=int(input("Enter no: "))
+    if n==-1:
+        
+        break
+    elif  l.count(n)==0:
+        l.append(n)
+        l.sort()
+print("list is",l ,"and second highest is",l[-2])
+    
+'''    
+
+# print numbers greater than avg
+'''
+l=[]
+
+avg = 0
+    
+while True:
+    n=int(input("Enter no: "))
+      if n==-1
+      break
+
+    l.append(n)
+    avg=sum(l)/len(l)
+    print("average",a)
+    for i in l:
+        if i>=a:
+            print(i)
+            
+'''
+
+# append avg to list 
+'''
+l=[]
+n = int(input('enter numbers: '))
+sum = 0
+for n in range(n):
+    sum += n
+avg = sum/n
+print('Average of ', n, ' numbers is :', avg)
+ '''
+
+
+
+# append avg and sum
+'''
+l=[]
+
+a = 0
+    
+while True:
+    n=int(input("Enter no: "))
+    if n==-1:
+        break
+    l.append(n)
+   
+    avg=sum(l)/len(l)
+    
+    l.append(avg)
+    l.append(sum(l))
+    print("list is",l)
+'''
+
+
+
+
+#remove occurrence of  10 from list and print list #while-if
+'''
+l = [10, 20, 10, 30, 10, 40, 10, 50]
+print ("List is",l)
+
+n=10
+i=0 
+le=len 
+while(i<len(l)):
+	if(l[i]==n):
+		l.remove (l[i])
+		len(l) = len(l) -1  
+		
+	i = i+1
+
+print (l)
+'''
+
+# remove occurence of 10 from list
+'''
+l = [10, 20, 10, 30, 10, 40, 10, 50]
+i=0
+    while l.count(10)!=0:
+		l.remove (10)
+print(l)
+'''
+
+
+
+# remove occurence of  10 from list
+'''
+l = [10, 20, 10, 30, 10, 40, 10, 50]
+avg = 0
+for i in range (l): 
+    avg=sum(l)/len(l)
+    s=sum(l)
+    l.append(avg)
+    l.append(s)
+    while l.count(10)!=0:
+     l.remove(10)
+    print("list is",l)
+'''
